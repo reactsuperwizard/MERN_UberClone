@@ -43,6 +43,6 @@
     "request": "^2.87.0",
     "request-promise": "^4.2.2",
     "twilio": "^3.17.3",
-    "typeorm": "^0.2.7"
+    "typeorm": "^0.2.25"
   }
 }

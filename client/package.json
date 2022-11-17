@@ -29,7 +29,7 @@
     "react-helmet": "^5.2.0",
     "react-pose": "^1.6.4",
     "react-router-dom": "^4.2.2",
-    "react-scripts-ts": "2.16.0",
+    "react-scripts-ts": "4.0.8",
     "react-sidebar": "^2.3.2",
     "react-toastify": "^4.0.1",
     "react-transition-group": "^2.3.1",

@@ -30,7 +30,7 @@
   "dependencies": {
     "aws-sdk": "^2.259.1",
     "bcrypt": "^2.0.1",
-    "class-validator": "^0.8.5",
+    "class-validator": "^0.14.0",
     "graphql": "^0.13.2",
     "graphql-yoga": "^1.14.8",
     "helmet": "^3.12.1",
